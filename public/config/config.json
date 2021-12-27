@@ -1,0 +1,18 @@
+{
+	"CONTRACT_ADDRESS": "0x8f5eA1CCA8a79A91d1F140Aac477bc130E553b34",
+	"SCAN_LINK": "https://mumbai.polygonscan.com/address/0x8f5eA1CCA8a79A91d1F140Aac477bc130E553b34",
+	"NETWORK": {
+		"NAME": "Mumbai",
+		"SYMBOL": "Matic",
+		"ID": 80001
+	},
+	"NFT_NAME": "Ghibli Totoro",
+	"SYMBOL": "GT",
+	"MAX_SUPPLY": 10000,
+	"WEI_COST": 20000000000000000,
+	"DISPLAY_COST": 0.02,
+	"GAS_LIMIT": 285000,
+	"MARKETPLACE": "Opeansea",
+	"MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ghiblitotoro-v2",
+	"SHOW_BACKGROUND": true
+}
