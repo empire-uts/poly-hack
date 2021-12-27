@@ -1,4 +1,4 @@
-#Ghibli Totoro NFT
+# Ghibli Totoro NFT
 
 Totoro is the titular character from Hayao Miyazaki's film My Neighbor Totoro. He is a spirit of the forest.
 
