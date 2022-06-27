@@ -198,13 +198,13 @@ function App() {
 				flex={1}
 				ai={'center'}
 				style={{ padding: 24, backgroundColor: 'var(--primary)' }}
-				image={CONFIG.SHOW_BACKGROUND ? '/config/images/bg.jpg' : null}
+				image={CONFIG.SHOW_BACKGROUND ? '/config/images/tusnight.jfif' : null}
 			>
-				<StyledLogo alt={'logo'} src={'/config/images/logo.png'} />
+				<StyledLogo alt={'logo'} src={'/config/images/SBT MINTER.png'} />
 				<s.SpacerSmall />
 				<ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
 					<s.Container flex={1} jc={'center'} ai={'center'}>
-						<StyledImg alt={'preview'} src={'/config/images/preview.gif'} />
+						<StyledImg alt={'preview'} src={'/config/images/butabayashi.gif'} />
 					</s.Container>
 					<s.SpacerLarge />
 					<s.Container
@@ -371,8 +371,8 @@ function App() {
 					<s.Container flex={1} jc={'center'} ai={'center'}>
 						<StyledImg
 							alt={'preview'}
-							src={'/config/images/preview.gif'}
-							style={{ transform: 'scaleX(-1)' }}
+							src={'/config/images/butabayashi.gif'}
+							style={{ transform: 'scaleX(1)' }}
 						/>
 					</s.Container>
 				</ResponsiveWrapper>
